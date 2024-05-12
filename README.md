@@ -1,29 +1,20 @@
-Woof App
-==================================
+# Tugas-6-PPB-B-Woof-App
 
-The Woof app is a list of dog photos with information about them including their name, age, and favorite activity. This app also uses Material Design to create a beautiful app experience for the user.
+| Nama                       | NRP        |
+| -------------------------- | ---------- |
+| Sarah Nurhasna Khairunnisa | 5025211105 |
 
-Introduction
-------------
+### Deskripsi Tugas:
 
-This is the solution code for the Material Theming with Jetpack Compose Codelab. This project is an opportunity for you to learn Material3 and reinforce the concepts you've learned so far in Android Basics with Compose.
+Membuat aplikasi Woof, yaitu aplikasi yang menampilkan daftar anjing dan menggunakan Desain Material untuk membuat pengalaman aplikasi yang menarik. Kita akan menunjukkan beberapa hal yang mungkin dilakukan menggunakan Penerapan Tema Material. Pada aplikasi woof ini akan ada 2 mode yaitu light mode dan dark mode.
 
-Pre-requisites
---------------
+### Hasil Aplikasi:
 
-- Rows/Columns
-- Modifiers
-- Scaffold
-- Adding images
-- Button click handlers
-- Functions
-- Classes
-- Lists
-- App architecture
+#### Light Mode
 
-Getting Started
----------------
+![lightmode-new](https://github.com/SarahNurhasna/Tugas-4-PPB-B-Halaman-Login/assets/114993457/3042cb12-d041-4b2c-b1f8-cb053aa5584c)
+<br>
 
-1. Download the project
-2. Open the project in Android Studio
-3. Run the project
+#### Dark Mode
+
+![darkmode-new](https://github.com/SarahNurhasna/Tugas-4-PPB-B-Halaman-Login/assets/114993457/0f0ada13-6cb1-4375-ad66-30ed01aaa966)
